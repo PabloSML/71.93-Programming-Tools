@@ -1,0 +1,21 @@
+# Linux Commands [(Network Chuck Video)](https://www.youtube.com/watch?v=gd7BXuUQ91w)
+
+- pwd
+- ls (-a, -l)
+- clear (ctrl+l)
+- cd
+- echo
+- mkdir name
+- touch name
+- mv src dest
+- cp src dest
+- rm (-r)
+- nano - ctrl+x, y, entr
+- cat
+- pipelines |
+- ip address
+- grep: ip address | grep eth0 | grep inet
+- sudo
+- sudo apt update
+- sudo apt upgrade
+- sudo apt install git-all
