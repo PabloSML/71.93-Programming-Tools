@@ -24,7 +24,7 @@ done
 
 echo "Awesome! Here's some ice cream!"
 
-read -p "On a scale of 1 to 10, how funny are Pablo's memes? " appreciation
+read -p "On a scale of 1 to 10, how much fun is this? " appreciation
 if [ $appreciation -lt 10 ] ; then
 	echo "You can come back when you learn to appreciate art."
 else
